@@ -70,7 +70,7 @@ width: 80%;
 }
 .detalle {
     display: inline-block;
-    width: 15%;
+    width: 25%;
     padding: 1%;
 }
 
@@ -90,7 +90,7 @@ width: 80%;
     width: 25%;
 }
 .foto img {
-    width: 226px;
+    width: 326px;
     height: 203px;
     padding-bottom: 20px;
     margin-top: 20px;
