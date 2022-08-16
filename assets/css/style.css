@@ -1,0 +1,129 @@
+/* importar estilos desde https://type-scale.com/ */
+
+@import url(https://fontawesome.com);
+
+html {font-size: 100%} /*16px*/
+
+body{
+    color: beige;
+    font-family: Raleway , sans-serif;
+    font-weight: 1.75;
+    background-color: #000;
+}
+p{
+    margin-bottom: 1rem;
+    
+}
+h1, h2{
+    margin: 3rem 0 1.38rem;
+    font-family: Raleway , sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
+
+}
+h1 {
+    margin-top: 0;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0;
+    opacity: 1;
+}
+h2{
+    font-size: 3rem;
+}
+
+.wrap1 {
+width: 1280px;
+height: 727px;
+background-image: url(/assets/imgs/foto1b.jpeg);
+background-size: cover;
+margin: 150px;
+width: 80%;
+
+}
+.main {
+    width: 1380px;
+    height: 338px;
+}
+.contenido {
+    width: 475px;
+    height: 197px;
+    float: left;
+    text-align: left;
+    width: 50%;
+    margin-left: 10%;
+}
+
+   
+    
+    
+.caracteristicas {
+   width: 100%; 
+   text-align: center;
+   margin: 0;
+   border: solid 1px gray;
+   padding: 0.5em;
+   color: white;
+   background-color: gray;
+
+
+}
+.detalle {
+    display: inline-block;
+    width: 15%;
+    padding: 1%;
+}
+
+
+.main p{
+    float: left
+
+}
+.animales {
+    width: 120%;
+    text-align: center;
+
+    
+}
+.foto {
+    display: inline-block;
+    width: 25%;
+}
+.foto img {
+    width: 226px;
+    height: 203px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+
+
+    .foto {
+        text-align: center;
+    }
+    
+
+}
+
+
+
+footer{
+    text-align: center;
+    padding-top: 10%;
+
+}
+.footer {
+    float: right;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
